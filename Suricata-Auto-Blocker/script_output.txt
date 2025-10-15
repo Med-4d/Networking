@@ -1,0 +1,27 @@
+Detection Active...
+
+--- New Alert Detected ---
+Source IP: 192.168.1.10
+Signature: ICMP Echo Request Flood
+Blocked IP: 192.168.1.10
+--------------------------
+Unblocked IP: 192.168.1.10
+--------------------------
+
+--- New Alert Detected ---
+Source IP: 192.168.1.10
+Signature: SYN Port Scan
+Blocked IP: 192.168.1.10
+--------------------------
+Unblocked IP: 192.168.1.10
+--------------------------
+
+--- New Alert Detected ---
+Source IP: 192.168.1.10
+Signature: SHH Brute Force
+Blocked IP: 192.168.1.10
+--------------------------
+Unblocked IP: 192.168.1.10
+--------------------------
+^C
+Exiting
